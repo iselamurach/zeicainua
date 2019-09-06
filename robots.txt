@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yuaseecee.gnsp.in/sitemap.xml
